@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
+# Introduction
+It is a sample website
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -10,4 +13,7 @@ New file
 
 # Deployment
 Sample deployment
+
+some random data
+
 
