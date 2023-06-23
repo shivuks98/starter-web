@@ -16,7 +16,7 @@ Sample deployment
 
 some random data
 # Copyright
-copyright 2023 git training
+copyright 2023 git training. All rights reserver
 
 # Contribute
 Please fork this repo and then issue pull requests
