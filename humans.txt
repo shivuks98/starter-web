@@ -3,6 +3,7 @@
 
 # TEAM
 
+Shivakumar shiv@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
