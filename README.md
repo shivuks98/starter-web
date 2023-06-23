@@ -18,3 +18,5 @@ some random data
 # Copyright
 copyright 2023 git training
 
+# Contribute
+Please fork this repo and then issue pull requests
