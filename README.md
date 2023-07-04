@@ -20,3 +20,6 @@ copyright 2023 git training. All rights reserver
 
 # Contribute
 Please fork this repo and then issue pull requests
+
+#Thank you
+Please support
