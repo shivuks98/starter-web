@@ -11,7 +11,7 @@ Shivakumar shiv@gmail.com
     to all my students
 
 # TECHNOLOGY COLOPHON
-
+   Java, javascript
     HTML5, CSS3
     jQuery, Modernizr
 Please review the file
